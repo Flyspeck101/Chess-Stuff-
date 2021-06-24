@@ -1,4 +1,4 @@
-export public var chessSymbols = {
+export const chessSymbols = {
   wK: "♔",	
   wQ: "♕",	
  	wR: "♖",	
