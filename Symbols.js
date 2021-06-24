@@ -1,4 +1,4 @@
-var chessSymbols = {
+export public var chessSymbols = {
   wK: "♔",	
   wQ: "♕",	
  	wR: "♖",	
